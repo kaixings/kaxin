@@ -1,0 +1,3 @@
+<?
+	echo 'you are sb?'
+?>
